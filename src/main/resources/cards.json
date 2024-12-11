@@ -1,0 +1,29 @@
+{
+  "id": null,
+  "cardNumber": "16",
+  "pokemonStage": "BASIC",
+  "name": "Phantump",
+  "hp": 60,
+  "evolvesFrom": null,
+  "skills": [
+    {
+      "name": "Tackle",
+      "description": "",
+      "cost": "1",
+      "damage": 10
+    }
+  ],
+  "weaknessType": "FIRE",
+  "resistanceType": null,
+  "retreatCost": "1",
+  "gameSet": "Sword & Shield",
+  "pokemonType": "GRASS",
+  "regulationMark": "E",
+  "pokemonOwner": {
+    "id": null,
+    "family_name": "Yakovlev",
+    "first_name": "Maxim",
+    "sur_name": "Alekseevich",
+    "group": "BSBO-04-23"
+  }
+}
